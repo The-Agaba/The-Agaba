@@ -79,7 +79,7 @@
 ---
 
 ## 📫 Contact
-> Email is hidden for privacy — available on request via GitHub.
+> Email is hidden for privacy - available on request via GitHub.
 
 ---
 
